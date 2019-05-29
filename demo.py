@@ -5,7 +5,7 @@ import pickle
 
 
 ZEMBEREK_PATH	= 'bin/zemberek-full.jar'
-MODEL_PATH 		= "model/crf8.pickle"
+MODEL_PATH 		= "model/crf08.pickle"
 
 def getFeature(token, token_index, sentence):
 
